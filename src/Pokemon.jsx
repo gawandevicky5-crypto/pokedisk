@@ -403,7 +403,9 @@ const Pokemon = () => {
         <small>
           DATA PROVIDED BY POKÉAPI
         </small>
-
+ <small> <br />
+          MADED BY VICKY
+        </small>
       </footer>
 
     </div>
